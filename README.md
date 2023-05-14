@@ -34,7 +34,7 @@ const starmori = {
         misc: ["Firebase", "Socket.IO", "Selenium"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing CEX project",
+    currentProject: "I am developing a CEX project",
 };
 ```
 
