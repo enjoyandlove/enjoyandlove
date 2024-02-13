@@ -1,40 +1,30 @@
 <h2>StarMori🙏🏻 </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer</em></p>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx StarMori
-```
+<p><em>Full Stack Software Engineer</em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const starmori = {
+const enjoyandlove = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Solidity", "PHP"],
-    askMeAbout: ["Web dev", "Tech", "Blockchain dev", "API"],
+    code: ["Javascript", "Typescript", "PHP", "Liquid"],
+    askMeAbout: ["Web dev", "Shopify", "API"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "Nuxt", "React", "Angular", "Next", "Gatsby"],
-            css: ["Bootstrap", "TailwindCSS", "MUI"]
+            js: ["React", "Next", "Vue", "Nuxt", "Angular"],
+            css: ["Bootstrap", "TailwindCSS", "MUI", "Shadcn"]
         },
         backEnd: {
-            js: ["Nest.js", "Node", "Express"],
-            python: ["Flask", "Django"]
+            js: ["Node.js", "Express.js", "Nest.js"],
+            php: ["Laravel"]
         },
-        blockchain: {
-            Smart_Contract: ["ERC721", "ERC20", "ERE1155" ...],
-            Web3: ["Web3.js", "Ethers.js"],
-            
-        },
-        devOps: ["AWS", "Docker🐳", "Kubernetes", "Nginx"],
+        devOps: ["AWS", "Azure", "Docker🐳", "Kubernetes", "Nginx"],
         databases: ["MongoDB", "MySql", "PostgreSql"],
-        misc: ["Firebase", "Socket.IO", "Selenium"]
+        misc: ["Firebase", "Socket.IO", "Selenium"],
+        shopify: ["Liquid", "Polaris", "Prisma"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing a CEX project",
+    expectedProject: "I am ready for a Full Stack project",
 };
 ```
 
